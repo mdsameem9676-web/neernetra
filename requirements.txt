@@ -1,6 +1,6 @@
 streamlit
-numpy
-opencv-python-headless
+numpy>=1.23
+opencv-python-headless==4.9.0.80
 pillow
 ultralytics
 matplotlib
